@@ -1,0 +1,71 @@
+{
+    "products":[{
+    
+        "id":"Dress",
+        "title":"Dress 1",
+        "image":"/images/Dress_6.jpg",
+        "description":"abpot dr4ess 1",
+        "price":17,
+        "availableSizes":["XL","XLL"]
+    
+    
+},
+{
+    
+    "id":"dress2",
+    "title":"Dress2",
+    "image":"/images/Dress_1.jpg",
+    "description":"abpot dr4ess 1",
+    "price":"18",
+    "availableSizes":["S","XS"]
+
+
+},
+{
+    
+    "id":"dress3",
+    "title":"Dress3",
+    "image":"/images/Dress_3.jpg",
+    "description":"abpot dr4ess 1",
+    "price":"27",
+    "availableSizes":["XL","XXL"]
+
+
+},
+{
+    
+    "id":"dress4",
+    "title":"Dress4",
+    "image":"/images/Dress_1.jpg",
+    "description":"abpot dr4ess 1",
+    "price":"57",
+    "availableSizes":["L","XL"]
+
+
+},
+{
+    
+    "id":"dress5",
+    "title":"Dress5",
+    "image":"/images/Dress_5.jpg",
+    "description":"abpot dr4ess 1",
+    "price":"10",
+    "availableSizes":["M","XXL"]
+
+
+},
+{
+    
+    "id":"dress6",
+    "title":"Dress6",
+    "image":"/images/Dress_6.jpg",
+    "description":"abpot dr4ess 1",
+    "price":"11",
+    "availableSizes":["M","S"]
+
+
+}
+
+
+]
+}
